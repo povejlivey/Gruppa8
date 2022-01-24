@@ -1,5 +1,1 @@
 Hello world!
-$ git config --global user.name "Vadim Gubeev"
-
-Вадим@DESKTOP-OAUB5OS MINGW64 ~/Desktop/Урок 1
-$ git config --global user.email "vadimka.good@yandex.ru"
